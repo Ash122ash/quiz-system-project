@@ -1,0 +1,34 @@
+{
+  "Software Engineering": [
+    {
+      "question": "Which model is also known as the linear sequential model?",
+      "options": [
+        "Waterfall Model",
+        "Spiral Model",
+        "RAD Model",
+        "Prototype Model"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Requirement gathering is done in which phase?",
+      "options": [
+        "Design",
+        "Analysis",
+        "Testing",
+        "Deployment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "White-box testing is also called?",
+      "options": [
+        "Behavioral Testing",
+        "Structural Testing",
+        "User Testing",
+        "Black-box Testing"
+      ],
+      "answer": 1
+    }
+  ]
+}
